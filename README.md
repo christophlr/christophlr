@@ -1,6 +1,7 @@
-Christoph
-Art
-Germany
+- Christoph
+
+- Art
+- Germany
 
 <!---
 christophlr/christophlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
